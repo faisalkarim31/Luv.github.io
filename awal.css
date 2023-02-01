@@ -1,0 +1,18 @@
+body{
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 60px;
+    padding-top: 70px;
+    text-align: center;
+    font-style: italic;
+    transition: 1.5s;
+}
+
+h1.awal{
+    padding-top: 0px;
+    font-size: 40px;
+}
